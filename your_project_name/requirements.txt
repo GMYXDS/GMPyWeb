@@ -1,0 +1,12 @@
+Flask
+Flask-WTF
+Flask-Session
+Celery
+gunicorn
+psutil
+multiprocess
+gevent
+redis
+pymysql
+rpyc
+requests
